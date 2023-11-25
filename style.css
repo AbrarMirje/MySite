@@ -1,0 +1,14 @@
+.logo {
+    border: 2px solid whitesmoke;
+    border-radius: 50%;
+}
+
+.border {
+    border: 2px solid black;
+}
+
+.position {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
